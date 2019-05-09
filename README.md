@@ -1,6 +1,7 @@
 # Implementation of Small Projects using TensorFlow.js 
 
 - check this [tutorial](https://medium.com/tensorflow/a-gentle-introduction-to-tensorflow-js-dba2e5257702) on TensorFlow.js
+- [instruction page](https://wqw547243068.github.io/demo/page/)
 
 ## pix2pix 
 Fast image-to-image check [demo](https://zaidalyafeai.github.io/pix2pix/cats.html)
