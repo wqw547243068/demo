@@ -4,7 +4,7 @@
 - [instruction page](https://wqw547243068.github.io/demo/page/)
 
 ## pix2pix 
-Fast image-to-image check [demo](https://zaidalyafeai.github.io/pix2pix/cats.html)
+Fast image-to-image check [demo](https://wqw547243068.github.io/demo/pix2pix/cats.html)
 
 ![alt text](https://raw.githubusercontent.com/zaidalyafeai/zaidalyafeai.github.io/master/images/pix2pix.png)
 
