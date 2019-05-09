@@ -5,22 +5,27 @@
 
 ## pix2pix 
 Fast image-to-image check [demo](https://zaidalyafeai.github.io/pix2pix/cats.html)
+
 ![alt text](https://raw.githubusercontent.com/zaidalyafeai/zaidalyafeai.github.io/master/images/pix2pix.png)
 
 ## fast-style 
 Fast style transfer check [demo](https://wqw547243068.github.io/demo/fast-style/)
+
 ![alt text](https://raw.githubusercontent.com/zaidalyafeai/zaidalyafeai.github.io/master/images/fast-style.PNG)
 
 ## Real Time Face Segmentation
 Real Time Face Segmentation check [demo](https://wqw547243068.github.io/demo/face-segmentation)
+
 ![alt text](https://raw.githubusercontent.com/zaidalyafeai/zaidalyafeai.github.io/master/images/segmentation.png)
 
 ## Real Time style transfer
 Real Time style transfer check [demo](https://wqw547243068.github.io/demo/RST/)
+
 ![alt text](https://raw.githubusercontent.com/zaidalyafeai/zaidalyafeai.github.io/master/images/rst.png)
 
 ## Real Time Face recunstruction 
 Face recunstuction [demo](https://wqw547243068.github.io/demo/fast-style/)
+
 ![alt text](https://raw.githubusercontent.com/zaidalyafeai/zaidalyafeai.github.io/master/images/reconstruct.png)
 
 
