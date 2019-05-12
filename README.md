@@ -35,7 +35,7 @@ Recognition of latex symbols check [demo](https://wqw547243068.github.io/demo/te
 ![alt text](https://raw.githubusercontent.com/zaidalyafeai/zaidalyafeai.github.io/master/images/texter.PNG)
 
 ## Sketcher 
-Recognition of sketch drawings check [demo](https://wqw547243068.github.io/demosketcher/)
+Recognition of sketch drawings check [demo](https://wqw547243068.github.io/demo/sketcher/)
 
 ![alt text](https://raw.githubusercontent.com/zaidalyafeai/zaidalyafeai.github.io/master/images/sketcher.PNG)
 
