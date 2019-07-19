@@ -16,7 +16,7 @@ Fast style transfer check [demo](https://wqw547243068.github.io/demo/fast-style/
 
 - 【2019-07-19】[图像风格迁移示例](https://reiinakano.github.io/arbitrary-image-stylization-tfjs)
 
-<iframe src="https://reiinakano.github.io/arbitrary-image-stylization-tfjs" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="https://reiinakano.github.io/arbitrary-image-stylization-tfjs" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width='800' height='600'> </iframe>
 
 
 ## Real Time Face Segmentation
