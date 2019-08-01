@@ -1,5 +1,5 @@
 # Implementation of Small Projects using TensorFlow.js 
-- 基于tensorflow.js的Demo集合
+- 基于tensorflow.js的[Demo集合](https://wqw547243068.github.io/demo/)
 
 - Check this [tutorial](https://medium.com/tensorflow/a-gentle-introduction-to-tensorflow-js-dba2e5257702) on TensorFlow.js
 - [Instruction page](https://wqw547243068.github.io/demo/page/)
