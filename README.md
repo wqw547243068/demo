@@ -66,10 +66,15 @@ Recognition of latex symbols check [demo](https://wqw547243068.github.io/demo/te
 
 ![alt text](https://raw.githubusercontent.com/zaidalyafeai/zaidalyafeai.github.io/master/images/sent-class.PNG)
 
-## 访问统计
+## Visit
 
 - 访问统计可视化：
+<!-- 访问统计可视化组件 5hf0y373y6n -->
+<div class="side">
+     <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5q2837r7gjo&amp;s=265&amp;m=7&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
+<div>
 
+## Comments
 <!-- 来必力City版安装代码 -->
 <div id="lv-container" data-id="city" data-uid="MTAyMC80NTU2OC8yMjA3OQ==">
    <script type="text/javascript">
