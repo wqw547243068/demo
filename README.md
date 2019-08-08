@@ -77,6 +77,15 @@ Recognition of latex symbols check [demo](https://wqw547243068.github.io/demo/te
 
 ![alt text](https://raw.githubusercontent.com/zaidalyafeai/zaidalyafeai.github.io/master/images/sent-class.PNG)
 
+## 石头剪刀布
+- 【2019-08-08】
+- [Github](https://github.com/GantMan/rps_tfjs_demo), [Demo](https://rps-tfjs.netlify.com/)
+
+![](https://github.com/GantMan/rps_tfjs_demo/raw/master/public/rps_logo.jpg)
+
+![](https://rps-tfjs.netlify.com/rps_webcam_big.jpg)
+
+
 ## Visit
 
 访问统计可视化
