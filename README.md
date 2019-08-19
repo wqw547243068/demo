@@ -86,6 +86,13 @@ Recognition of latex symbols check [demo](https://wqw547243068.github.io/demo/te
 ![](https://rps-tfjs.netlify.com/rps_webcam_big.jpg)
 
 
+## 自拍照→卡通
+
+【2019-08-18】【用自拍照生成动漫头像】’Selfie To Anime - Website front-end of [selfie2anime.com](https://selfie2anime.com/)' by Rico A. Beti [GitHub](https://github.com/SilentByte/selfie2anime-site)
+
+![](https://selfie2anime.com/img/carousel/12.jpg)
+
+
 ## Visit
 
 访问统计可视化
