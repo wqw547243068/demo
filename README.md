@@ -95,7 +95,18 @@ Recognition of latex symbols check [demo](https://wqw547243068.github.io/demo/te
 
 ## Demo代码库
 
+- [Python第三方模块tesserocr安装](https://www.cnblogs.com/Jimc/p/9772930.html)
 - 【2019-08-22】[MANNA AI代码库](http://manaai.cn/)，[MANNA AI社区](http://talk.strangeai.pro/)
+
+
+## OCR
+
+- [TensorFlow 2.0 中文手写字识别（汉字OCR）](https://zhuanlan.zhihu.com/p/68356509)
+- [ChineseOCR](https://github.com/chineseocr/chineseocr)
+
+![](https://github.com/chineseocr/chineseocr/raw/master/test/train-demo.png)
+
+
 
 ## Visit
 
