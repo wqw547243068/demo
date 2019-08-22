@@ -93,6 +93,10 @@ Recognition of latex symbols check [demo](https://wqw547243068.github.io/demo/te
 ![](https://selfie2anime.com/img/carousel/12.jpg)
 
 
+## Demo代码库
+
+- 【2019-08-22】[MANNA AI代码库](http://manaai.cn/)，[MANNA AI社区](http://talk.strangeai.pro/)
+
 ## Visit
 
 访问统计可视化
