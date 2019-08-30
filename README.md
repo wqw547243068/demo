@@ -108,13 +108,22 @@ Recognition of latex symbols check [demo](https://wqw547243068.github.io/demo/te
 
 
 ## 智能改写
+
 - Smart Compose，Google文章介绍
    - [Smart Compose: Using Neural Networks to Help Write Emails](https://ai.googleblog.com/2018/05/smart-compose-using-neural-networks-to.html)
    - [How to Use Smart Compose in Gmail](https://www.laptopmag.com/articles/how-to-use-gmail-smart-compose)
 ![](https://2.bp.blogspot.com/-KlBuhzV_oFw/WvxP_OAkJ1I/AAAAAAAACu0/T0F6lFZl-2QpS0O7VBMhf8wkUPvnRaPIACLcBGAs/s640/image2.gif)
 
 - [OpenAI Demo](https://gpt2.apps.allenai.org/)
+- 其它demo, [predictable](https://github.com/jkhaui/predictable)
 
+![](https://camo.githubusercontent.com/a5479c57b72dabb15ac26e511dcd0323d8d49848/687474703a2f2f6269742e6c792f324c5251354e63)
+
+- Smart Reply
+   - [Save time with Smart Reply in Gmail](https://www.blog.google/products/gmail/save-time-with-smart-reply-in-gmail/)
+   - [Efficient Natural Language Response Suggestion for Smart Reply-pdf](https://arxiv.org/pdf/1705.00652.pdf), [code](https://github.com/clsk/google-smart-reply-2017)
+
+![](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Smart_Reply_in_Gmail_Pixel_Gray_background_xRDPC4C.gif)
 
 ## Visit
 
