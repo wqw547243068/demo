@@ -119,6 +119,9 @@ Recognition of latex symbols check [demo](https://wqw547243068.github.io/demo/te
 
 ![](https://camo.githubusercontent.com/a5479c57b72dabb15ac26e511dcd0323d8d49848/687474703a2f2f6269742e6c792f324c5251354e63)
 
+- 【2019-09-06】基于transformer的自动补全Demo, [Write With Transformer](https://transformer.huggingface.co/),提供多种领域的补全功能
+
+
 - Smart Reply
    - [Save time with Smart Reply in Gmail](https://www.blog.google/products/gmail/save-time-with-smart-reply-in-gmail/)
    - [Efficient Natural Language Response Suggestion for Smart Reply-pdf](https://arxiv.org/pdf/1705.00652.pdf), [code](https://github.com/clsk/google-smart-reply-2017)
