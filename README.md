@@ -106,6 +106,7 @@ Recognition of latex symbols check [demo](https://wqw547243068.github.io/demo/te
 - 【2019-08-22】[MANNA AI代码库](http://manaai.cn/)，[MANNA AI社区](http://talk.strangeai.pro/)
 - 【2019-09-06】Maël Fabien收集的项目[Demo](https://maelfabien.github.io/portfolio/#)
 
+![](https://github.com/maelfabien/Machine_Learning_Tutorials/raw/master/Images/projects.png)
 
 ## OCR
 
