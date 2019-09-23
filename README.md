@@ -116,8 +116,19 @@ Recognition of latex symbols check [demo](https://wqw547243068.github.io/demo/te
 
 ![](https://camo.githubusercontent.com/365fbb2b6d59be3f67fac9c4dfc93f02e77f5520/687474703a2f2f692e763265782e636f2f743639304a795a532e706e67)
 
+## 计算机视觉
 
-## OCR
+
+### 手写汉字识别
+
+- 【2019-09-22】【CNN在线识别手写中文Demo】[cnn_handwritten_chinese_recognition](https://github.com/taosir/cnn_handwritten_chinese_recognition)
+
+![](https://github.com/taosir/cnn_handwritten_chinese_recognition/raw/master/cnn_handwrite_chinese_recognize_arch.png)
+
+![](https://github.com/taosir/cnn_handwritten_chinese_recognition/raw/master/cnn_handwrite_chinese_recognize.gif)
+
+
+### OCR
 
 - [TensorFlow 2.0 中文手写字识别（汉字OCR）](https://zhuanlan.zhihu.com/p/68356509)
 - [ChineseOCR](https://github.com/chineseocr/chineseocr)
