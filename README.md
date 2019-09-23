@@ -108,6 +108,15 @@ Recognition of latex symbols check [demo](https://wqw547243068.github.io/demo/te
 
 ![](https://github.com/maelfabien/Machine_Learning_Tutorials/raw/master/Images/projects.png)
 
+## NLP基础
+
+### 序列标注
+
+- 【2019-09-22】Poplar, A web-based annotation tool for natural language processing (NLP) needs, inspired by brat [rapid annotation tool](http://brat.nlplab.org/). [Poplar demo](https://synyi.github.io/poplar/)
+
+![](https://camo.githubusercontent.com/365fbb2b6d59be3f67fac9c4dfc93f02e77f5520/687474703a2f2f692e763265782e636f2f743639304a795a532e706e67)
+
+
 ## OCR
 
 - [TensorFlow 2.0 中文手写字识别（汉字OCR）](https://zhuanlan.zhihu.com/p/68356509)
