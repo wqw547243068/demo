@@ -125,6 +125,10 @@ Real Time style transfer check [demo](https://wqw547243068.github.io/demo/RST/)
 
 ## NLP基础
 
+- 【2019-10-14】清华整理的[预训练语言模型汇总](https://github.com/thunlp/PLMpapers)
+
+![](https://github.com/thunlp/PLMpapers/raw/master/PLMfamily.jpg)
+
 ### 序列标注
 
 - 【2019-09-22】Poplar, A web-based annotation tool for natural language processing (NLP) needs, inspired by brat [rapid annotation tool](http://brat.nlplab.org/). [Poplar demo](https://synyi.github.io/poplar/)
