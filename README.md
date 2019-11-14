@@ -170,6 +170,7 @@ Real Time style transfer check [demo](https://wqw547243068.github.io/demo/RST/)
 
 ![](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Smart_Reply_in_Gmail_Pixel_Gray_background_xRDPC4C.gif)
 
+- 【2019-11-14】基于GPT-2的段落生成[talktotransformer](https://talktotransformer.com/)
 
 ## 无人驾驶
 
