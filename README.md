@@ -172,6 +172,10 @@ Real Time style transfer check [demo](https://wqw547243068.github.io/demo/RST/)
 
 - 【2019-11-14】基于GPT-2的段落生成[talktotransformer](https://talktotransformer.com/)
 
+## 阅读理解
+- 【2019-12-12】[A Gentle Introduction to Text Summarization in Machine Learning](https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/)
+![](https://blog.floydhub.com/content/images/2019/04/extractive.gif)
+
 ## 无人驾驶
 
 
