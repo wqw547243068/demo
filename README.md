@@ -81,6 +81,12 @@ Real Time style transfer check [demo](https://wqw547243068.github.io/demo/RST/)
 ![alt text](https://raw.githubusercontent.com/zaidalyafeai/zaidalyafeai.github.io/master/images/reconstruct.png)
 
 
+### 基于tensorflow.js的实时检测Demo
+
+- 参考：[In-browser real-time object detection with TensorFlow.js and React](https://github.com/juandes/tensorflowjs-objectdetection-tutorial)
+
+![](https://github.com/juandes/tensorflowjs-objectdetection-tutorial/raw/master/gif/1.gif)
+
 ### DeepFace
 - 【2019-09-06】在 Colab 里训练 DeepFaceLab 换脸, [DeepFaceLab adapted to using with Google Colab](https://github.com/chervonij/DFL-Colab/blob/master/DFL_Colab_Demo.ipynb)' by chervonij，类似ZAO
 
